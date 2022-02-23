@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bradleypuckree
-- 👀 I’m interested in Front End Web Development and Web Design
-- 🌱 I’m currently learning PHP and Javascript
+- 👋 @Bradleypuckree
+- 👀 Interested in Front End Web Development and Web Design
+- 🌱 Currently learning PHP and Javascript
 
 
 <!---
